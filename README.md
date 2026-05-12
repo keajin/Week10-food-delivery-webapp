@@ -6,14 +6,16 @@ Form a group with your nearby classmates, groups of 3 or more are encouraged, bu
 What problem does the app solve?
 Who are the target users?
 What are the key features?
-Commit to your workshop week10 README.md and push changes
 
 Step 2. Analysis Web Application
 Then, for your chosen project, perform a basic requirements analysis in a group:
 
 At least 3 core functional requirements (what the app must do)
+Restaurants options, Order Food, Payment
+
 At least 2 non-functional requirements (such as performance, security, usability)
-Commit to your workshop week10 README.md and push changes
+Food review, search filters
+
 
 Step 3. Estimate Timeline
 Based on your requirements:
