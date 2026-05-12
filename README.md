@@ -1,13 +1,18 @@
 # Week10-food-delivery-webapp
 COMP2110-week10-group
-Step 1. Define Web Application
+**Step 1. Define Web Application**
 Form a group with your nearby classmates, groups of 3 or more are encouraged, but flexibility is allowed if needed. In your group, brainstorm and decide on a project idea of your choice. As the delivery of this step, write a brief project description that answers:
 
 What problem does the app solve?
-Who are the target users?
-What are the key features?
+A food delivery app will help users to recieve products
 
-Step 2. Analysis Web Application
+Who are the target users?
+People that aren't skilled at cooking or do not have the time.
+
+What are the key features?
+Search for restaurants, Look through menu, Order food, recieve delivery
+
+**Step 2. Analysis Web Application**
 Then, for your chosen project, perform a basic requirements analysis in a group:
 
 At least 3 core functional requirements (what the app must do)
@@ -23,9 +28,9 @@ Based on your requirements:
 (in group) Identify which team member(s) will work on each task
 (Individual) Break down your assigned component into smaller tasks and estimate how long each will take (in hours, with specific days/weeks)
 (in group) Provide a basic timeline showing the expected schedule
-Commit to your workshop week10 README.md and push changes
 
-Step 4. Planning
+
+**Step 4. Planning**
 List and briefly explain the web stack components you will use at each layer. For example,
 
 Frontend (HTML, CSS, JavaScript)
